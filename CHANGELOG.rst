@@ -7,7 +7,7 @@ Unreleased
 * fix: Previous removal of unused content in version compare also removed the toolbar from the preview endpoint. This fix adds a separate template for the preview.
 
 
-4.0.0.dev3 (2022-01-11)
+.0.0.dev3 (2022-01-11)
 =======================
 
 * fix: Snippet plugin added to a page now displays name instead of ID
